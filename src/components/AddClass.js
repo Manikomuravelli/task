@@ -42,7 +42,7 @@ function AddClass({currentClass,classes}) {
 
     return (
         <>
-            <section className="main">
+            <section className="main anotherclass">
                 <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-lg-10">
